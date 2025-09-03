@@ -1,9 +1,9 @@
 // variables
 var board = [];
-var rows = 8;
-var columns = 8;
+var rows = 15;
+var columns = 15;
 
-var minesCount = 5;
+var minesCount = 20;
 var minesLocation = [];  
 
 var tilesClicked = 0;
